@@ -2,3 +2,68 @@ baseURL = 'https://zsk4.github.io/'
 languageCode = 'en-us'
 title = 'Zachary Katz'
 theme = 'finite'
+author = "Zachary Katz"
+copyright = "Copyright (c) 2024 Zachary Katz"
+canonifyurls = true
+
+[params]
+
+# Date format (refer to Go's date format: http://flippinggodateformat.com)
+# Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+#date_format = "2 January 2006"
+
+# Publications can have a Params.publication for citation references.
+# Publications can have a Params.kind, such as "book".
+# Both parameters are mapped to an icon in partials/pub-icon.html.
+
+bio_full = "Zachary Katz"
+
+# Title of posts section on main page.
+#posts_title = "Posts"
+
+# Number of posts to show on main page.
+#posts_count = 2
+
+# Title of publications section on main page.
+#pubs_title = "Publications"
+
+# Number of publications to show on main page.
+#pubs_count = 5
+
+[[params.education]]
+  course = "Bachelor in Civil L"
+  institution = "University of Orléans"
+  year = 1626
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fa"
+  link = "mailto:zachary_katz@mines.edu"
+  text = "zachary_katz@mines.edu"
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fa"
+  link = "https://github.com/zsk4"
+  text = "Github"
+
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?hl=en&user=ExqlJKgAAAAJ"
+  text = "Google Scholar"
+
+[[params.social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0009-0006-2779-7103"
+  text = "0009-0006-2779-7103"
+
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 2
