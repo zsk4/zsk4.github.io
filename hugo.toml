@@ -79,3 +79,5 @@ bio_full = "Zachary Katz"
   name = "Publications"
   url = "/publications/"
   weight = 2
+
+[[params.publications]]
