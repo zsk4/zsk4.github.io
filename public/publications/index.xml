@@ -7,21 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2024 Zachary Katz</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Second Publication</title>
-      <link>http://localhost:1313/publications/katzpub2/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/katzpub2/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;</description>
+      <title>Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region</title>
+      <link>http://localhost:1313/publications/katzcornet2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/katzcornet2024/</guid>
+      <description>&lt;p&gt;@article{10.1785/0220240158, &lt;br&gt;&#xA;author = {Katz, Zachary S. and Abers, Geoffery A. and Yang, Yucheng and Ferris, Aaron and Jordan, Teresa E. and Pritchard, Matthew E. and Fulton, Patrick M. and Gustafson, Olaf}, &lt;br&gt;&#xA;title = {Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region}, &lt;br&gt;&#xA;journal = {Seismological Research Letters}, &lt;br&gt;&#xA;volume = {95}, &lt;br&gt;&#xA;number = {5}, &lt;br&gt;&#xA;pages = {3042-3054}, &lt;br&gt;&#xA;year = {2024}, &lt;br&gt;&#xA;month = {07}, &lt;br&gt;&#xA;abstract = {Cornell University intends to use a deep direct‐use geothermal system to heat its Ithaca, New York, campus. In preparation for this project, the Cornell Seismic Network has been monitoring the background seismicity in this intraplate region since 2019. From January 2020 to June 2023, 95 events were detected within 20 km of the proposed geothermal well site, with local magnitudes ranging from −1.02 to 0.56. None of these events appear in regional or national catalogs. Events locate in a narrow geographic band, with one‐fourth exhibiting multimodal hypocentral probability peaks both near the surface and at 1–4 km depth. We relocate events with a joint hypocenter and 1D velocity model inversion, in addition to a fully nonlinear method, and then compare observations with synthetic waveforms. Together, these approaches provide strong evidence for 95% of events locating at the surface or within the 3‐km‐thick sedimentary sequence. We explore how anthropogenic activity and regional topographic stress may contribute to frequent surficial events. This information is critical for characterizing the background microseismicity for comparison during future geothermal operations. Ithaca’s geology of Paleozoic sediments overlying Precambrian crystalline basement is typical of many continental interiors, so these results also provide insight into intraplate microseismicity patterns.}, &lt;br&gt;&#xA;issn = {0895-0695}, &lt;br&gt;&#xA;doi = {10.1785/0220240158}, &lt;br&gt;&#xA;url = {https://doi.org/10.1785/0220240158}, &lt;br&gt;&#xA;eprint = {https://pubs.geoscienceworld.org/ssa/srl/article-pdf/95/5/3042/6918725/srl-2024158.1.pdf}, &lt;br&gt;&#xA;}&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/publications/katzcornet2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/katzcornet2024/</guid>
-      <description>&lt;p&gt;Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region &lt;br&gt;&#xA;&lt;em&gt;Seismological Research Letters (2024) 95 (5): 3042–3054&lt;/em&gt; &lt;br&gt;&#xA;Z. Katz, G. Abers, Y. Yang, A. Ferris, T. Jordan, M. Pritcahrd, P. Fulton, O. Gustafson&lt;/p&gt;</description>
+      <title>TEST2</title>
+      <link>http://localhost:1313/publications/katzpub2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/katzpub2/</guid>
+      <description>&lt;p&gt;@article{10.1785/0220240158,&#xA;author = {Katz, Zachary S. and Abers, Geoffery A. and Yang, Yucheng and Ferris, Aaron and Jordan, Teresa E. and Pritchard, Matthew E. and Fulton, Patrick M. and Gustafson, Olaf},&#xA;title = {Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region},&#xA;journal = {Seismological Research Letters},&#xA;volume = {95},&#xA;number = {5},&#xA;pages = {3042-3054},&#xA;year = {2024},&#xA;month = {07},&#xA;abstract = {Cornell University intends to use a deep direct‐use geothermal system to heat its Ithaca, New York, campus. In preparation for this project, the Cornell Seismic Network has been monitoring the background seismicity in this intraplate region since 2019. From January 2020 to June 2023, 95 events were detected within 20 km of the proposed geothermal well site, with local magnitudes ranging from −1.02 to 0.56. None of these events appear in regional or national catalogs. Events locate in a narrow geographic band, with one‐fourth exhibiting multimodal hypocentral probability peaks both near the surface and at 1–4 km depth. We relocate events with a joint hypocenter and 1D velocity model inversion, in addition to a fully nonlinear method, and then compare observations with synthetic waveforms. Together, these approaches provide strong evidence for &amp;amp;gt;95% of events locating at the surface or within the 3‐km‐thick sedimentary sequence. We explore how anthropogenic activity and regional topographic stress may contribute to frequent surficial events. This information is critical for characterizing the background microseismicity for comparison during future geothermal operations. Ithaca’s geology of Paleozoic sediments overlying Precambrian crystalline basement is typical of many continental interiors, so these results also provide insight into intraplate microseismicity patterns.},&#xA;issn = {0895-0695},&#xA;doi = {10.1785/0220240158},&#xA;url = {https://doi.org/10.1785/0220240158},&#xA;eprint = {https://pubs.geoscienceworld.org/ssa/srl/article-pdf/95/5/3042/6918725/srl-2024158.1.pdf},&#xA;}&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
