@@ -4,7 +4,7 @@ title = 'Zachary Katz'
 theme = 'finite'
 author = "Zachary Katz"
 copyright = "Copyright (c) 2024 Zachary Katz"
-canonifyurls = true
+canonifyURLs = true
 
 [params]
 
