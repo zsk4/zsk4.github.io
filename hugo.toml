@@ -8,6 +8,7 @@ canonifyurls = true
 
 [params]
 
+
 # Date format (refer to Go's date format: http://flippinggodateformat.com)
 # Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 #date_format = "2 January 2006"
@@ -30,10 +31,21 @@ bio_full = "Zachary Katz"
 # Number of publications to show on main page.
 #pubs_count = 5
 
+[[params.about]]
+  name = "Zachary Katz"
+  pronouns = "(he/him)"
+  title = "PhD Student"
+  lab = "Mines Glaciology Lab"
+  dept = "Department of Geophysics"
+  school = "Colorado School of Mines,"
+  loc = "Golden, CO"
+
+
+
 [[params.education]]
-  course = "Bachelor in Civil L"
-  institution = "University of Orléans"
-  year = 1626
+  course = "B.S., Engineering Physics"
+  institution = "Cornell University"
+  year = 2023
 
 [[params.social]]
   icon = "envelope"
@@ -65,5 +77,5 @@ bio_full = "Zachary Katz"
 
 [[menu.main]]
   name = "Publications"
-  url = "/publication/"
+  url = "/publications/"
   weight = 2

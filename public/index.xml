@@ -7,6 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2024 Zachary Katz</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Second Publication</title>
+      <link>http://localhost:1313/publications/katzpub2/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/katzpub2/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/katzcornet2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/katzcornet2024/</guid>
+      <description>&lt;p&gt;Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region &lt;br&gt;&#xA;&lt;em&gt;Seismological Research Letters (2024) 95 (5): 3042–3054&lt;/em&gt; &lt;br&gt;&#xA;Z. Katz, G. Abers, Y. Yang, A. Ferris, T. Jordan, M. Pritcahrd, P. Fulton, O. Gustafson&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

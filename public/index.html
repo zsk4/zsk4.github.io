@@ -42,7 +42,7 @@
 		<ul class="menu vertical medium-horizontal">
 		  
 		  
-		  <li><a href="http://localhost:1313/publication/">Publications</a></li>
+		  <li><a href="http://localhost:1313/publications/">Publications</a></li>
 		  
 		</ul>
 	      </div>
@@ -88,23 +88,48 @@
     </main>
     
     
-    <footer class="whatisthis">
+    <style>
+  .about-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    display: inline;
+    
+  }
+</style>
+
+<footer class="whatisthis">
   <hr />
   <div class="row">
-    <div class="column small-12 medium-4">
-      <h1>About</h1>
+    
+    <div class="column small-12 medium-6">
       <figure class="full-figure">
-	<img src="http://localhost:1313/img/portrait.jpg" alt="Portrait of the author">
-	<figcaption>Zachary Katz</figcaption>
+	<img src="http://localhost:1313/img/portrait.jpg" alt="Zachary Katz">
       </figure>
     </div>
-    <div class="column small-12 medium-4">
+
+    
+    <div class="column small-12 medium-6">
       
-      <h1>Education</h1>
+      
+      <div class="about-section">
+        
+        <p>
+          <strong class="about-name">Zachary Katz</strong> (he/him) <br>
+          PhD Student<br>
+          <a href="https://glaciology.mines.edu/" target="_blank">Mines Glaciology Lab</a><br>
+          Department of Geophysics<br>
+          Colorado School of Mines, Golden, CO
+        </p>
+        
+      </div>
+      
+
+      <h1 id="education">Education</h1>
+      
       <ul class="ul-edu fa-ul">
 	
 	<li><i class="fa-li fa fa-graduation-cap"></i>
-          Bachelor in Civil L, 1626 (University of Orléans)
+          B.S., Engineering Physics, 2023 (Cornell University)
         </li>
         
       </ul>
@@ -121,33 +146,6 @@
 	<li><i class="fa-li ai ai-orcid" style="padding-top:3px;"></i><a href="https://orcid.org/0009-0006-2779-7103">0009-0006-2779-7103</a></li>
 	
       </ul>
-      Pierre de Fermat<br />
-3 rue Fermat - Maison Fermat<br />
-82500 Beaumont de Lomagne<br />
-France
-
-    </div>
-    <div class="column small-12 medium-4">
-      <h1>Subscribe</h1>
-      <p>To receive updates, you can subscribe to
-	the <a href="http://localhost:1313/index.xml"><i class="fa fa-rss-square"></i>&nbsp;RSS feed</a> of all
-	updates to the site in an RSS feed reader.
-      </p>
-      <h1>Search</h1>
-      <a id="searchsite">
-	<form method="get" action="https://duckduckgo.com/">
-	  <label for="search-field" class="show-for-sr">Search with DuckDuckGo</label>
-	  <input type="search" name="q" maxlength="255" placeholder="Search with DuckDuckGo" id="search-field">
-	  <input type="hidden" name="sites" value="http://localhost:1313/"/>
-	  <input type="hidden" name="k7" value="#faf8f8"/>
-	  <input type="hidden" name="kj" value="#b33"/>
-	  <input type="hidden" name="ky" value="#fafafa"/>
-	  <input type="hidden" name="kx" value="b"/>
-	  <input type="hidden" name="ko" value="-1"/>
-	  <input type="hidden" name="k1" value="-1"/>
-	  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-	</form>
-      </a>
     </div>
   </div>
 </footer>
