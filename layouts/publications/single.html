@@ -12,7 +12,7 @@
   <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
     <h1>Citation</h1>
 
-    {{ range .Pages }}
+    {{ range sort .Pages "Date" "desc" }}
       <div class="pub-content">
         <h3>{{ .Title }}</h3>
         {{ .Content }}
