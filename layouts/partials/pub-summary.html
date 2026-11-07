@@ -4,4 +4,4 @@
 <br />
 {{ .Params.Authors | safeHTML }}
 <br />
-<span><a class="button hollow pub-link" href="{{ .Permalink }}">Citation</a> {{ partial "pub-links" . }}</span>
+<span> {{ partial "pub-links" . }}<a class="button hollow pub-link" href="{{ .Permalink }}">BibTeX</a></span>

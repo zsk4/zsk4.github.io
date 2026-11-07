@@ -2,29 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Zachary Katz</title>
-    <link>https://zsk4.github.io/publications/</link>
+    <link>http://localhost:1313/publications/</link>
     <description>Recent content in Publications on Zachary Katz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2024 Zachary Katz</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zsk4.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2026 Zachary Katz</copyright>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SWOT High-Rate Raster Data Reveals Antarctic Ice Shelf Motion and Change in Response to Ocean and Ice Dynamics</title>
+      <link>http://localhost:1313/publications/howardswot2026/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/howardswot2026/</guid>
+      <description>@article{10.1029/2026GL122539,&#xA;title = {{SWOT} {High}-{Rate} {Raster} {Data} {Reveals} {Antarctic} {Ice} {Shelf} {Motion} and {Change} in {Response} to {Ocean} and {Ice} {Dynamics}}, volume = {53}, copyright = {© 2026. The Author(s). Geophysical Research Letters published by Wiley Periodicals LLC on behalf of American Geophysical Union.}, issn = {1944-8007}, url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2026GL122539}, doi = {10.1029/2026GL122539}, abstract = {The NASA/CNES Surface Water and Ocean Topography (SWOT) swath-mapping radar altimetry satellite mission, launched in December 2022, provides repeat-track coverage to about ±78.</description>
+    </item>
+    <item>
+      <title>Slip-Event Timing and Ice Velocity Vary at Long-Period Ocean Tidal Frequencies at Whillans Ice Plain, West Antarctica</title>
+      <link>http://localhost:1313/publications/katzwhillans2026/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/katzwhillans2026/</guid>
+      <description>@article{10.1029/2025JF008770, title = {Slip-{Event} {Timing} and {Ice} {Velocity} {Vary} at {Long}-{Period} {Ocean} {Tidal} {Frequencies} at {Whillans} {Ice} {Plain}, {West} {Antarctica}}, volume = {131}, copyright = {© 2026. The Author(s).}, issn = {2169-9011}, url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008770}, doi = {10.1029/2025JF008770}, abstract = {Whillans Ice Plain (WIP), a region of West Antarctica flowing into the southern Ross Sea, lurches forward 0.2–0.6 m over 30–60 min once or twice per diurnal ocean tidal cycle. Combining 11 years (2008–2019) of 30 s or better resolution Global Navigation Satellite System (GNSS) data from past field campaigns is necessary to provide insight into WIP dynamics by connecting individual slip events to decadal velocity trends.</description>
+    </item>
     <item>
       <title>Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region</title>
-      <link>https://zsk4.github.io/publications/katzcornet2024/</link>
+      <link>http://localhost:1313/publications/katzcornet2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zsk4.github.io/publications/katzcornet2024/</guid>
+      <guid>http://localhost:1313/publications/katzcornet2024/</guid>
       <description>@article{10.1785/0220240158, author = {Katz, Zachary S. and Abers, Geoffery A. and Yang, Yucheng and Ferris, Aaron and Jordan, Teresa E. and Pritchard, Matthew E. and Fulton, Patrick M. and Gustafson, Olaf}, title = {Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region}, journal = {Seismological Research Letters}, volume = {95}, number = {5}, pages = {3042-3054}, year = {2024}, month = {07}, abstract = {Cornell University intends to use a deep direct‐use geothermal system to heat its Ithaca, New York, campus.</description>
     </item>
-    
-    <item>
-      <title>Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region</title>
-      <link>https://zsk4.github.io/publications/katzwhillans2026/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zsk4.github.io/publications/katzwhillans2026/</guid>
-      <description>@article{10.1785/0220240158, author = {Katz, Zachary S. and Abers, Geoffery A. and Yang, Yucheng and Ferris, Aaron and Jordan, Teresa E. and Pritchard, Matthew E. and Fulton, Patrick M. and Gustafson, Olaf}, title = {Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region}, journal = {Seismological Research Letters}, volume = {95}, number = {5}, pages = {3042-3054}, year = {2024}, month = {07}, abstract = {Cornell University intends to use a deep direct‐use geothermal system to heat its Ithaca, New York, campus.</description>
-    </item>
-    
   </channel>
 </rss>

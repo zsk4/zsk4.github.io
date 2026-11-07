@@ -1,7 +1,7 @@
 +++
 title = "Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region"
 journal = "<em>Seismological Research Letters (2024) 95 (5): 3042–3054</em>"
-authors = "Z. Katz, G. Abers, Y. Yang, A. Ferris, T. Jordan, M. Pritcahrd, P. Fulton, O. Gustafson"
+authors = "<strong>Z. S. Katz</strong>, G. Abers, Y. Yang, A. Ferris, T. Jordan, M. Pritcard, P. Fulton, O. Gustafson"
 
 date = "2024-07-01"
 publication = "Seismological Research Letters"
@@ -9,7 +9,7 @@ publication_short = "SRL"
 
 [[url_custom]]
 name = "DOI"
-url = "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/95/5/3042/645962/Seismic-Monitoring-near-Ithaca-New-York-Reveals?redirectedFrom=fulltext"
+url = "https://doi.org/10.1785/0220240158"
 +++
 
 @article{10.1785/0220240158, \
@@ -25,7 +25,6 @@ url = "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/95/5/3042/64596
     issn = {0895-0695}, \
     doi = {10.1785/0220240158}, \
     url = {https://doi.org/10.1785/0220240158}, \
-    eprint = {https://pubs.geoscienceworld.org/ssa/srl/article-pdf/95/5/3042/6918725/srl-2024158.1.pdf}, \
 }
 
 

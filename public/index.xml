@@ -2,29 +2,222 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zachary Katz</title>
-    <link>https://zsk4.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Zachary Katz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2024 Zachary Katz</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zsk4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2026 Zachary Katz</copyright>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Royal Arch Trail</title>
+      <link>http://localhost:1313/hikes/royalarch_october2026/</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/royalarch_october2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chief Mountain Trail #58</title>
+      <link>http://localhost:1313/hikes/chiefmountain_october2026/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/chiefmountain_october2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Falls Trail</title>
+      <link>http://localhost:1313/hikes/fallstrail_august2026/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/fallstrail_august2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abrigo Trail</title>
+      <link>http://localhost:1313/hikes/cerrosdeabrigo_july2026/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/cerrosdeabrigo_july2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SWOT High-Rate Raster Data Reveals Antarctic Ice Shelf Motion and Change in Response to Ocean and Ice Dynamics</title>
+      <link>http://localhost:1313/publications/howardswot2026/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/howardswot2026/</guid>
+      <description>@article{10.1029/2026GL122539,&#xA;title = {{SWOT} {High}-{Rate} {Raster} {Data} {Reveals} {Antarctic} {Ice} {Shelf} {Motion} and {Change} in {Response} to {Ocean} and {Ice} {Dynamics}}, volume = {53}, copyright = {© 2026. The Author(s). Geophysical Research Letters published by Wiley Periodicals LLC on behalf of American Geophysical Union.}, issn = {1944-8007}, url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2026GL122539}, doi = {10.1029/2026GL122539}, abstract = {The NASA/CNES Surface Water and Ocean Topography (SWOT) swath-mapping radar altimetry satellite mission, launched in December 2022, provides repeat-track coverage to about ±78.</description>
+    </item>
+    <item>
+      <title>Póvi Pʼin via Windsor Trail #254</title>
+      <link>http://localhost:1313/hikes/p%C3%B3vip%CA%BCin_june2026/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/p%C3%B3vip%CA%BCin_june2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Dunefield</title>
+      <link>http://localhost:1313/hikes/greatsanddunes_may2026/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/greatsanddunes_may2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emerald Lake Trail</title>
+      <link>http://localhost:1313/hikes/emeraldlake_may2026/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/emeraldlake_may2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1st/2nd Flatiron Trail</title>
+      <link>http://localhost:1313/hikes/flatirons1-2_april2026/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/flatirons1-2_april2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>大文字山 (Mt. Daimonji)</title>
+      <link>http://localhost:1313/hikes/%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1_february2026/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1_february2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>弥山展望台 (Mt. Misen Observatory)</title>
+      <link>http://localhost:1313/hikes/%E5%BC%A5%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0_february2026/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%E5%BC%A5%E5%B1%B1%E5%B1%95%E6%9C%9B%E5%8F%B0_february2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>봉래산 (Bongnaesan)</title>
+      <link>http://localhost:1313/hikes/%EB%B4%89%EB%9E%98%EC%82%B0_january2026/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EB%B4%89%EB%9E%98%EC%82%B0_january2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slip-Event Timing and Ice Velocity Vary at Long-Period Ocean Tidal Frequencies at Whillans Ice Plain, West Antarctica</title>
+      <link>http://localhost:1313/publications/katzwhillans2026/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/katzwhillans2026/</guid>
+      <description>@article{10.1029/2025JF008770, title = {Slip-{Event} {Timing} and {Ice} {Velocity} {Vary} at {Long}-{Period} {Ocean} {Tidal} {Frequencies} at {Whillans} {Ice} {Plain}, {West} {Antarctica}}, volume = {131}, copyright = {© 2026. The Author(s).}, issn = {2169-9011}, url = {https://onlinelibrary.wiley.com/doi/abs/10.1029/2025JF008770}, doi = {10.1029/2025JF008770}, abstract = {Whillans Ice Plain (WIP), a region of West Antarctica flowing into the southern Ross Sea, lurches forward 0.2–0.6 m over 30–60 min once or twice per diurnal ocean tidal cycle. Combining 11 years (2008–2019) of 30 s or better resolution Global Navigation Satellite System (GNSS) data from past field campaigns is necessary to provide insight into WIP dynamics by connecting individual slip events to decadal velocity trends.</description>
+    </item>
+    <item>
+      <title>지미봉 오름 (Jimibong Volcanic Cone)</title>
+      <link>http://localhost:1313/hikes/%EC%A7%80%EB%AF%B8%EB%B4%89_january2026/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EC%A7%80%EB%AF%B8%EB%B4%89_january2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>성산일출봉 (Seongsan Ilchulbong)</title>
+      <link>http://localhost:1313/hikes/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_january2026/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EC%84%B1%EC%82%B0%EC%9D%BC%EC%B6%9C%EB%B4%89_january2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>삼선계단 (Samseon Stairway)</title>
+      <link>http://localhost:1313/hikes/%EB%8C%80%EB%91%94%EC%82%B0-%EB%8F%84%EB%A6%BD%EA%B3%B5%EC%9B%90_december2025/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EB%8C%80%EB%91%94%EC%82%B0-%EB%8F%84%EB%A6%BD%EA%B3%B5%EC%9B%90_december2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>관음봉 (Gwaneumbong)</title>
+      <link>http://localhost:1313/hikes/%EA%B3%84%EB%A3%A1%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_december2025/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EA%B3%84%EB%A3%A1%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90_december2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>관악산 연주대 (Gwanaksan Yeonjudae Hermitage)</title>
+      <link>http://localhost:1313/hikes/%EA%B4%80%EC%95%85%EC%82%B0_november2025/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EA%B4%80%EC%95%85%EC%82%B0_november2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>백운대 (Baegundae)</title>
+      <link>http://localhost:1313/hikes/%EB%B6%81%ED%95%9C%EC%82%B0_november2025/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/%EB%B6%81%ED%95%9C%EC%82%B0_november2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dune Du Pilat</title>
+      <link>http://localhost:1313/hikes/dunedupilat_oct2025/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/dunedupilat_oct2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grizzly Peak D Trail</title>
+      <link>http://localhost:1313/hikes/grizzlypeakd_july2025/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/grizzlypeakd_july2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seven Falls</title>
+      <link>http://localhost:1313/hikes/santabarbara_april2025/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/santabarbara_april2025/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Torre</title>
+      <link>http://localhost:1313/hikes/portugal_september2024/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/portugal_september2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grays Peak Trail</title>
+      <link>http://localhost:1313/hikes/graystorreys_july2024/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/graystorreys_july2024/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region</title>
-      <link>https://zsk4.github.io/publications/katzcornet2024/</link>
+      <link>http://localhost:1313/publications/katzcornet2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zsk4.github.io/publications/katzcornet2024/</guid>
+      <guid>http://localhost:1313/publications/katzcornet2024/</guid>
       <description>@article{10.1785/0220240158, author = {Katz, Zachary S. and Abers, Geoffery A. and Yang, Yucheng and Ferris, Aaron and Jordan, Teresa E. and Pritchard, Matthew E. and Fulton, Patrick M. and Gustafson, Olaf}, title = {Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region}, journal = {Seismological Research Letters}, volume = {95}, number = {5}, pages = {3042-3054}, year = {2024}, month = {07}, abstract = {Cornell University intends to use a deep direct‐use geothermal system to heat its Ithaca, New York, campus.</description>
     </item>
-    
     <item>
-      <title>Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region</title>
-      <link>https://zsk4.github.io/publications/katzwhillans2026/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://zsk4.github.io/publications/katzwhillans2026/</guid>
-      <description>@article{10.1785/0220240158, author = {Katz, Zachary S. and Abers, Geoffery A. and Yang, Yucheng and Ferris, Aaron and Jordan, Teresa E. and Pritchard, Matthew E. and Fulton, Patrick M. and Gustafson, Olaf}, title = {Seismic Monitoring near Ithaca, New York, Reveals Nonuniform Distribution of Microseismicity in an Intraplate Region}, journal = {Seismological Research Letters}, volume = {95}, number = {5}, pages = {3042-3054}, year = {2024}, month = {07}, abstract = {Cornell University intends to use a deep direct‐use geothermal system to heat its Ithaca, New York, campus.</description>
+      <title>Bodenburg Butte</title>
+      <link>http://localhost:1313/hikes/palmerbutte_june2024/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/palmerbutte_june2024/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>Bonanza Mine Trail</title>
+      <link>http://localhost:1313/hikes/rootglacier_june2024/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/rootglacier_june2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fountain Valley Trail</title>
+      <link>http://localhost:1313/hikes/roxboroughstatepark_may2024/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/roxboroughstatepark_may2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>South Table Mountain Park</title>
+      <link>http://localhost:1313/hikes/southtable_january2024/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/southtable_january2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloquet Forestry Center</title>
+      <link>http://localhost:1313/hikes/cloquettrail_september2023/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/cloquettrail_september2023/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -343,3 +343,60 @@ ul.taxonomy-terms {
 .post-metadata a:hover {
     color: #2199e8;
 }
+
+.endofpage {
+    background-color: #101730;
+    width: 100%;
+    min-height: 50px;
+    margin-top: 3ex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.endofpage p {
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+    visibility: visible;
+    text-align: center;
+}
+
+html body footer.endofpage p {
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    text-shadow: none !important;
+}
+
+.hike-entry {
+    margin-bottom: 3rem;
+}
+
+.hike-date {
+    color: #101730;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.hike-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+/* Start a new page after every three hikes */
+@media print {
+    .hike-page-break {
+        break-before: page;
+        page-break-before: always;
+    }
+}

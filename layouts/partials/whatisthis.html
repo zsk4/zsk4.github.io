@@ -11,14 +11,15 @@
   <hr />
   <div class="row">
     <!-- Column 1 -->
-    <div class="column small-12 medium-6">
+    <div class="column small-12 medium-4">
       <figure class="full-figure">
-	<img src="/img/katz.jpg" alt="Zachary Katz">
+	<img src="/img/katz.jpg" alt="Zachary Katz" style="max-width: 100%; height: auto;">
       </figure>
     </div>
 
     <!-- Column 2 -->
-    <div class="column small-12 medium-6">
+    <div class="column small-12 medium-8">
+    <div style="font-size: calc(1em - 2pt);">
       <!-- About Section -->
       {{ if isset .Site.Params "about" }}
       <div class="about-section">
@@ -51,5 +52,6 @@
 	{{ end }}
       </ul>
     </div>
+  </div>
   </div>
 </footer>

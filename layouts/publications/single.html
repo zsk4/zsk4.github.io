@@ -10,14 +10,16 @@
 {{ define "main" }}
 <div class="row">
   <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
-    <h1>Citation</h1>
 
-    {{ range sort .Pages "Date" "desc" }}
-      <div class="pub-content">
-        <h3>{{ .Title }}</h3>
-        {{ .Content }}
-      </div>
-    {{ end }}
+    <h1>{{ .Title }}</h1>
+
+    <div class="pub-content">
+      {{ .Content }}
+    </div>
+
+    <p>
+      <a href="{{ .Parent.RelPermalink }}">Back to Publications</a>
+    </p>
 
   </div>
 </div>

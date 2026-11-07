@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/academicons.min.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fonts.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/finite.css">
+    <link rel="stylesheet" href="{{ "css/finite.css" | relURL }}">
     {{ end }}
   </head>
   <body>
@@ -65,8 +65,15 @@
     {{ partial "whatisthis" . }}
     {{ end }}
     {{ block "endofpage" . }}
-    <div class="endofpage">
+      <footer class="endofpage">
+      <div class="row">
+        <div class="column small-12 text-center">
+          <p>© {{ now.Format "2006" }} Zachary Katz | <a href="https://github.com/lambdafu/hugo-finite">Hugo Finite</a></p>
+        </div>
+      </div>
+    </footer>
     </div>
+    {{ end }}
 
     <script src="/js/jquery.js"></script>
     <script src="/js/what-input.js"></script>
@@ -92,8 +99,7 @@
                     { left: '$', right: '$', display: false },
                     {left: '\\(', right: '\\)', display: false},
                     {left: '\\[', right: '\\]', display: true} ]});"></script>
-
-    {{ end }}
     {{ end }}
   </body>
 </html>
+

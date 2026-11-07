@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="row">
+  <div class="column small-12 medium-10 medium-offset-1 end large-8 large-offset-0">
+    <h1>{{ .Title }}</h1>
+
+    {{ range $i, $hike := sort .Pages "Date" "desc" }}
+      {{ if and (gt $i 0) (eq (mod $i 3) 0) }}
+        <div class="hike-page-break"></div>
+      {{ end }}
+
+      <div class="row hike-entry">
+        <div class="column small-3 medium-2">
+          <p class="hike-date">
+            {{ $hike.Date.Format "January 2006" }}
+          </p>
+        </div>
+
+        <div class="column small-9 medium-10">
+          <h2>{{ $hike.Title }}</h2>
+
+          {{ with $hike.Params.location }}
+            <p class="hike-location">{{ . }}</p>
+          {{ end }}
+
+          {{ with $hike.Params.image }}
+            <img class="hike-image" src="{{ . | relURL }}" alt="{{ $hike.Title }}">
+          {{ end }}
+
+          {{ $hike.Content }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

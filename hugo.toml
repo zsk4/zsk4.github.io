@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Zachary Katz'
 theme = 'finite'
 author = "Zachary Katz"
-copyright = "Copyright (c) 2024 Zachary Katz"
+copyright = "Copyright (c) 2026 Zachary Katz"
 canonifyURLs = true
 
 [params]
@@ -79,5 +79,10 @@ bio_full = "Zachary Katz"
   name = "Publications"
   url = "/publications/"
   weight = 2
+
+[[menu.main]]
+  name = "Hikes"
+  url = "/hikes/"
+  weight = 3
 
 [[params.publications]]

@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+{{ $comicResource := resources.GetRemote "https://xkcd.com/info.0.json" }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 mx-auto text-center">
+
+      <h1><strong>404.</strong> That's an error.</h1>
+    {{ with $comicResource }}
+        {{ $comic := . | transform.Unmarshal }}
+        
+        <p>
+            Looks like I messed something up on my site. Here's a recent
+            xkcd comic to make up for it!
+        <p>
+
+        <p>
+          xkcd {{$comic.num}}: <a href="https://xkcd.com/{{ $comic.num }}/">
+            {{ $comic.title }}
+          </a>
+        </p>
+            <a href="https://xkcd.com/{{ $comic.num }}/">
+                <img
+                src="{{ $comic.img }}"
+                alt="{{ $comic.alt }}"
+                title="{{ $comic.alt }}"
+                style="max-width: 100%; height: auto;"
+                >
+            </a>
+            </p>
+    {{ else }}
+        <p>Couldn't load the latest xkcd comic.</p>
+    {{ end }}
+
+    <p>
+        xkcd is created by Randall Munroe. Click <a href="https://xkcd.com/license.html">here</a> for licensing information.
+    </div>
+  </div>
+</div>
+
+{{ end }}
